@@ -18,7 +18,7 @@ const center = {
 
 const locations = [
   { location: { lat: -12.934839, lng: -38.461846 }, label: 'Mata Escura' },
-  { location: { lat: -12.915224, lng: -38.349531 }, label: 'São Critovão' },
+  { location: { lat: -12.915224, lng: -38.349531 }, label: 'São aCritovão' },
   { location: { lat: -12.929542, lng: -38.443561 }, label: 'Sussuarana' },
   { location: { lat: -12.934304, lng: -38.359082 }, label: 'Itapuã' },
   { location: { lat: -12.916423, lng: -38.480379 }, label: 'Lobato' },
